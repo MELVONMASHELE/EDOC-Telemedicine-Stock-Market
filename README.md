@@ -1,29 +1,22 @@
-# EDOC-Telemedicine-Stock-Market
-Analyzes stock market trends in telemedicine and digital health, highlighting growth, challenges, and the role of predictive analytics in forecasting the industry's future.
+# EDOC - Stock Market Analysis and the Future of Telemedicine & Digital Health
 
-# EDOC - Stock Market Analysis & the Future of Telemedicine  
+## Project Overview
+This project analyzes stock market trends in the telemedicine and digital health sectors, using historical data (2020-2024) to forecast growth and provide actionable insights into market dynamics.
 
-## 📊 Project Overview  
-Analyzes stock market trends in telemedicine and digital health, highlighting growth, challenges, and the role of predictive analytics in forecasting the industry's future.  
+## Objectives
+- Identify key trends in telemedicine stock performance.
+- Analyze market volatility and its implications.
+- Forecast 2025 stock performance using regression modeling.
 
-## 🚀 Key Insights  
-- Telemedicine stocks show upward investment trends.  
-- Predictive analytics suggest substantial growth for the sector by 2025.  
+## Tools and Technologies
+- **Excel:** Data cleaning and regression analysis.
+- **Power BI:** Dynamic dashboards for data visualization.
+- **Kaggle:** Data source.
 
-## 🛠️ Technologies Used  
-- **Python**: Data analysis and predictive modeling.  
-- **SQL**: Data extraction and cleaning.  
-- **Power BI**: Dashboard visualization.  
+## Key Features
+1. KPIs: Opening price, closing price, volume, and growth indicators.
+2. Visualizations: Line graphs, bar charts, and waterfall charts.
+3. Insights: Volatility patterns and growth predictions.
 
-## 📈 Visualizations  
-- Overview of the dashboard:  
-  ![Dashboard Overview](visuals/dashboard-overview.png)  
+## Repository Structure
 
-- Download the full dashboard:  
-  - [Power BI File](EDOC-dashboard.pbix)  
-  - [PDF Version](EDOC-Dashboard.pdf)  
-
-## 🔗 How to Explore  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/EDOC-Telemedicine-Stock-Market.git
