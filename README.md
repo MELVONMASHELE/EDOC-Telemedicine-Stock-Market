@@ -18,5 +18,18 @@ This project analyzes stock market trends in the telemedicine and digital health
 2. Visualizations: Line graphs, bar charts, and waterfall charts.
 3. Insights: Volatility patterns and growth predictions.
 
-## Repository Structure
+
+## Insights
+- Steady growth in stock prices reflects increasing investor confidence.
+- Market volatility peaked in 2023 due to competition and disruptions.
+- Predicted 2025 growth highlights telemedicine's potential as a sustainable investment.
+
+## How to Use
+1. Download the cleaned dataset and .pbix file.
+2. Open the Power BI dashboard for interactive exploration.
+3. Refer to `Insights.pdf` for a summary of key findings.
+
+## Contact
+For questions or collaboration opportunities, reach out via [LinkedIn](https://www.linkedin.com/in/melvonmashele/).
+
 
