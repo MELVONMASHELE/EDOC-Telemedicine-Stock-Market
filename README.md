@@ -10,11 +10,16 @@ This project seeks to analyze the historical performance of the Global X Telemed
 
 ## Methedology
 -Excel & Power BI: Data was cleaned and processed using Excel by:
+
 -Data Cleaning: Removing inconsistencies, applying functions such as TRIM, CLEAN, and AVERAGE to ensure accuracy.
+
 -Data Analysis: Calculating key metrics like the average, maximum, and minimum prices for Open, High, Low, Close, and Adj Close to identify price trends.
+
 -Volatility Analysis: Measuring daily and weekly percentage changes between High and Low prices to identify periods of significant volatility.
+
 -Volume Trend Analysis: Analyzing daily trading volume to detect notable market movements.
 -Subsequently, Power BI was utilized to visualize the stock's performance, creating dynamic charts and graphs to enhance the understanding of trends in price and volume over time.
+
 
 ## Results
 Price Trend Analysis: EDOC exhibited consistent volatility with significant fluctuations in 2020, largely due to the COVID-19 pandemic, which spurred growth in the telemedicine sector.
@@ -28,9 +33,7 @@ Volume Trends: Displaying spikes in trading volumes during certain market events
 
 Volatility Patterns: Identifying periods of significant price fluctuations.
 
-
-
--Year-Based Insights (Power BI DAX Formula):
+## Year-Based Insights (Power BI DAX Formula):
 
 2020: Telemedicine experienced a surge due to the COVID-19 pandemic.
 
